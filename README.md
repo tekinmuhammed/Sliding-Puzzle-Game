@@ -23,14 +23,15 @@ Arrange the board tiles into the following order:
 * Python 3.6 or later installed on your system.
 * The **keyboard** module installed. You can install it using pip:
 
-`pip install keyboard`
+ `pip install keyboard`
 
 
 ### Installation
 1. Clone the repository to your local machine:
 'git clone https://github.com/<your-username>/sliding-puzzle-game.git'
 2. Navigate to the project directory:
-`cd sliding-puzzle-game`
+
+ `cd sliding-puzzle-game`
 
 ### Running the Game
 Run the game using the following command:
@@ -43,7 +44,7 @@ Run the game using the following command:
 3. Press **q** at any time to quit the game.
 
 ### 📝 License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE(https://mit-license.org/)] file for details.
 
 ### 💡 Acknowledgments
 Inspired by the classic sliding puzzle game.
