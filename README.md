@@ -30,14 +30,15 @@ Arrange the board tiles into the following order:
 1. Clone the repository to your local machine:
 
      `git clone https://github.com/tekinmuhammed/Sliding-Puzzle-Game`
-3. Navigate to the project directory:
+   
+2. Navigate to the project directory:
 
-     `cd sliding-puzzle-game`
+     `cd Sliding-Puzzle-Game-main`
 
 ### Running the Game
 Run the game using the following command:
 
-`python sliding_puzzle.py`
+`python sliding-puzzle-game.py`
 
 ### 🕹️ How to Play
 1. Use the arrow keys to slide the empty tile (`0`) up, down, left, or right.
