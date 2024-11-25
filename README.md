@@ -1,5 +1,5 @@
 # Sliding Puzzle Game
-A fun and interactive Sliding Puzzle Game implemented in Python. The objective is to arrange the tiles on a 3x3 board in the correct order by sliding the empty tile (0) using the arrow keys.
+A fun and interactive **Sliding Puzzle Game** implemented in Python. The objective is to arrange the tiles on a 3x3 board in the correct order by sliding the empty tile (0) using the arrow keys.
 
 ### 🎯 Objective
 Arrange the board tiles into the following order:
