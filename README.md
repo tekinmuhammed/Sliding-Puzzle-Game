@@ -28,8 +28,9 @@ Arrange the board tiles into the following order:
 
 ### Installation
 1. Clone the repository to your local machine:
-'git clone https://github.com/tekinmuhammed/Sliding-Puzzle-Game'
-2. Navigate to the project directory:
+
+     `git clone https://github.com/tekinmuhammed/Sliding-Puzzle-Game`
+3. Navigate to the project directory:
 
      `cd sliding-puzzle-game`
 
