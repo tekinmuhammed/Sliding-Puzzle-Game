@@ -19,11 +19,9 @@ Arrange the board tiles into the following order:
 * Automatic validation to ensure puzzles are solvable.
 
 ### 🚀 Getting Started
-* **Prerequisites**
- 
- * Python 3.6 or later installed on your system.
- 
- *The ***keyboard*** module installed. You can install it using pip:
+**Prerequisites**
+* Python 3.6 or later installed on your system.
+* The **keyboard** module installed. You can install it using pip:
 
 `pip install keyboard`
 
@@ -45,7 +43,7 @@ Run the game using the following command:
 3. Press **q** at any time to quit the game.
 
 ### 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ### 💡 Acknowledgments
 Inspired by the classic sliding puzzle game.
