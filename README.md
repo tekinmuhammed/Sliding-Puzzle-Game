@@ -25,22 +25,22 @@ Arrange the board tiles into the following order:
  
  *The ***keyboard*** module installed. You can install it using pip:
 
-Markup :  `pip install keyboard'
+`pip install keyboard`
 
 
 ### Installation
 1. Clone the repository to your local machine:
 'git clone https://github.com/<your-username>/sliding-puzzle-game.git'
 2. Navigate to the project directory:
-'cd sliding-puzzle-game'
+`cd sliding-puzzle-game`
 
 ### Running the Game
 Run the game using the following command:
 
-'python sliding_puzzle.py'
+`python sliding_puzzle.py`
 
 ### 🕹️ How to Play
-1. Use the arrow keys to slide the empty tile ('0') up, down, left, or right.
+1. Use the arrow keys to slide the empty tile (`0`) up, down, left, or right.
 2. The goal is to arrange the tiles in numerical order as shown above.
 3. Press **q** at any time to quit the game.
 
