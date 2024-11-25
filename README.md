@@ -14,7 +14,7 @@ Arrange the board tiles into the following order:
  
 ### ✨ Features
 * Randomly generated, solvable puzzles.
-* Intuitive gameplay using arrow keys for movement.
+* Intuitive gameplay using **arrow keys** for movement.
 * Clear console interface for a seamless experience.
 * Automatic validation to ensure puzzles are solvable.
 
