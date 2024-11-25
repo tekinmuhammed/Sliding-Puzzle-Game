@@ -20,7 +20,9 @@ Arrange the board tiles into the following order:
 
 ### 🚀 Getting Started
 * **Prerequisites**
+ 
  * Python 3.6 or later installed on your system.
+ 
  *The ***keyboard*** module installed. You can install it using pip:
 
 Markup :  `pip install keyboard'
