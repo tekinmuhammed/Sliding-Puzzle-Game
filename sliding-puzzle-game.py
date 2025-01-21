@@ -169,4 +169,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://mit-l
 ### 💡 Acknowledgments 
 Inspired by the classic sliding puzzle game.
 Special thanks to the Python community for their incredible support and tools.
+
 """
